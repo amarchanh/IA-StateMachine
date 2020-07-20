@@ -1,4 +1,4 @@
 IA-StateMachine
 
 
-![alt text](http://Resources/Diagram.jpg)
+![diagrama](/Resources/Diagram.jpg)
